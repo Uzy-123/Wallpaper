@@ -1,7 +1,6 @@
 # HomeFlow
 
-[![Home-Flow-logo.png](https://i.postimg.cc/9Fcm6JD4/Home-Flow-logo.png)](https://postimg.cc/qgZHncX0)
-
+[![Logo-Home-Flow.png](https://i.postimg.cc/767Y9sKq/Logo-Home-Flow.png)](https://postimg.cc/S2ShNr0P)
 ## 1. Installation
 * Téléchargez le dépôt sous forme de dossier (via le bouton **Code** > **Download ZIP** sur GitHub).
 *(Image 1 : Capture du bouton Code sur GitHub)*
