@@ -3,19 +3,19 @@
 [![Logo-Home-Flow.png](https://i.postimg.cc/767Y9sKq/Logo-Home-Flow.png)](https://postimg.cc/S2ShNr0P)
 ## 1. Installation
 * Télécharger la dernière version de HomeFlow via le menu **Releases**.
-[url=https://postimg.cc/87rsNFZB][img]https://i.postimg.cc/13vF0w6T/brave-screenshot-github-com.png[/img][/url]
+[![brave-screenshot-github-com.png](https://i.postimg.cc/13vF0w6T/brave-screenshot-github-com.png)](https://postimg.cc/87rsNFZB)
 
 * Extrayez le contenu du dossier sur votre ordinateur.
-[url=https://postimg.cc/5XFjbHsS][img]https://i.postimg.cc/JzpX3ZJv/Capture-d-ecran-2026-06-07-180515.png[/img][/url]
+[![Capture-d-ecran-2026-06-07-180515.png](https://i.postimg.cc/JzpX3ZJv/Capture-d-ecran-2026-06-07-180515.png)](https://postimg.cc/5XFjbHsS)
 
 * Ouvrez votre navigateur et accédez à la page `chrome://extensions/`.
 [![Capture-d-ecran-2026-06-07-183017.png](https://i.postimg.cc/5tcVRkwk/Capture-d-ecran-2026-06-07-183017.png)](https://postimg.cc/4Y1qKP2z)
 
 * Activez le **Mode développeur** via l'interrupteur situé en haut à droite.
-[url=https://postimg.cc/k2tDqVTy][img]https://i.postimg.cc/8zZvdMWx/Capture-d-ecran-2026-06-07-181728.png[/img][/url]
+[![Capture-d-ecran-2026-06-07-181728.png](https://i.postimg.cc/8zZvdMWx/Capture-d-ecran-2026-06-07-181728.png)](https://postimg.cc/k2tDqVTy)
 
 * Cliquez sur le bouton **Charger l'extension non empaquetée** et sélectionnez le dossier que vous venez d'extraire.
-[url=https://postimg.cc/nXQMps32][img]https://i.postimg.cc/rwf4GxWB/Capture-d-ecran-2026-06-07-182252.png[/img][/url]
+[![Capture-d-ecran-2026-06-07-182252.png](https://i.postimg.cc/rwf4GxWB/Capture-d-ecran-2026-06-07-182252.png)](https://postimg.cc/nXQMps32)
 
 ## 2. Wallpaper
 HomeFlow inclut une gestion dynamique des fonds d'écran :
