@@ -29,7 +29,7 @@ HomeFlow inclut une gestion dynamique des fonds d'écran :
 * **Personnalisation :** Accédez au menu des paramètres de l'extension pour configurer vos widgets, vos icônes et sélectionner votre wallpaper.
 
 ## 4. Crédit
-* **MMT Studio Web :** Uzy
+* **MStudio Web :** Uzy
 
 ---
 *HomeFlow - Votre espace de travail numérique.*
